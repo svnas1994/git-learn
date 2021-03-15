@@ -1,1 +1,2 @@
 this is my first check-in in my user machine
+This is the second checkin with the same file
